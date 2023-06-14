@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">Wie gut kennen Sie Kasachstan?</string>
+    <string name="correct"><b>Regel</b> \n
+						<b>%1$d</b> von 6</string>
+    <string name="true_text">wahr</string>
+    <string name="false_text">falsch</string>
+    <string name="correct_answer">Das ist richtig</string>
+    <string name="wrong_answer">Das ist falsch</string>
+    <string name="a">die Hauptstadt von Kasachstan ist Nursultan.</string>
+    <string name="b">In Kasachstan sind die traditionellen Gerichte:\n \t
+					<b>Plov</b>\n \t
+					<b>Shish Kebab</b></string>
+    <string name="c">In Kasachstan gibt es\n \t
+					<b>Schokoladenfabrik!!!</b></string>
+    <string name="d">Kasachen kommen immer zu spät zu Besuch.</string>
+    <string name="e">Kasachen sind sehr gastfreundlich.</string>
+    <string name="f">Kasachstan hat das 10. größte Territorium</string>
+    <string name="next_text">nächste</string>
+    <string name="prev_text">vorherige</string>
+
+</resources>
