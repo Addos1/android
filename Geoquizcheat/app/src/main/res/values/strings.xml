@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="question_text">Constantinople is the largest city in Turkey</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="next_button">Next</string>
+    <string name="question_1">Die Hauptstadt von Kasachstan ist Nursultan.</string>
+    <string name="question_2">In Kasachstan sind die traditionellen Gerichte:\n \t
+					<b>Plov</b>\n \t
+					<b>Shish Kebab</b></string>
+    <string name="question_3">Kasachstan hat das 10. größte Territorium</string>
+    <string name="question_4">In Kasachstan gibt es\n \t
+        <b>Schokoladenfabrik!!!</b></string>
+    <string name="question_5">LKasachen kommen immer zu spät zu Besuch.</string>
+
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+    <string name="title_activity_cheat">Cheat Activity</string>
+
+
+</resources>
